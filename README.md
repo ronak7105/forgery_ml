@@ -1,0 +1,1 @@
+A machine learning-based system for detecting image authenticity, utilizing convolutional neural networks (CNNs) to analyze visual patterns and reliably distinguish between original and forged images. The model is trained on labeled datasets to learn subtle discrepancies indicative of tampering.
